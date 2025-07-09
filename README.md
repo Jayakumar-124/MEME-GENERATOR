@@ -1,10 +1,3 @@
-✅ Thanks for sharing your repository link!
-
-I checked it and saw it’s a **MEME GENERATOR** project written in HTML, CSS, and JavaScript.
-Below is a clean and professional **README.md** you can use for your project:
-
----
-
 # Meme Generator
 
 A simple and fun Meme Generator built with HTML, CSS, and JavaScript.
